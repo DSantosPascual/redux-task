@@ -29,3 +29,5 @@ A continuación, se detalla lo que hay que hacer en cada parte del ejercicio:
 1. En el archivo principal de tu aplicación `main.jsx`, importa el store de Redux desde `store.js`.
 2. Envuelve tu aplicación con el componente `Provider` de Redux, pasándole el store como prop.
 3. Utiliza el componente `App.jsx` en tu aplicación para mostrar la lista de tareas.
+
+done
